@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', function() {
 /* Ref: https://www.digitalocean.com/community/tutorials/how-to-use-the-javascript-fetch-api-to-get-data */
 /* Add an event listener so when the mouse hovers over, clicks, and leaves each path */
 /* Ref: https://codepen.io/pasengop/pen/ZEVzvYa  */
-/* Ref: https://codepen.io/noirsociety/pen/YzdyoQq */
+/* Ref: https://codepen.io/noirsociety/pen/YzdyoQq */ 
 /* Ref: https://codepen.io/jzpeepz/pen/PoKBWyP */
 /* Using an Immediately-Invoked Function Expression, the countries highlight immediately as soon as you choose the genre */
 /* Ref: https://developer.mozilla.org/en-US/docs/Glossary/IIFE */
