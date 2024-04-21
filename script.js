@@ -17,7 +17,7 @@ document.addEventListener('DOMContentLoaded', function() {
 /* Ref: https://developer.mozilla.org/en-US/docs/Glossary/IIFE */
 /* Promise.prototype.catch() for catching errors */
 /* Ref: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/catch */
-    fetch('https://github.com/Birkbeck2/web-project-avauga03/blob/main/assets/bookdata.json')
+    fetch('https://Birkbeck2.github.io/web-project-avauga03/assets/bookdata.json')
         .then(response => response.json())
         .then(data => {
             svgMap.querySelectorAll('path').forEach(path => {
